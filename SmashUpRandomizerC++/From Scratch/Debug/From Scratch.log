@@ -1,0 +1,8 @@
+﻿  FromScratch.cpp
+c:\users\jake\documents\visual studio 2015\projects\from scratch\from scratch\fromscratch.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jake\documents\visual studio 2015\projects\from scratch\from scratch\fromscratch.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\jake\documents\visual studio 2015\projects\from scratch\from scratch\fromscratch.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\jake\documents\visual studio 2015\projects\from scratch\from scratch\fromscratch.cpp(147): warning C4018: '>': signed/unsigned mismatch
+c:\users\jake\documents\visual studio 2015\projects\from scratch\from scratch\fromscratch.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  From Scratch.vcxproj -> C:\Users\Jake\Documents\Visual Studio 2015\Projects\From Scratch\Debug\From Scratch.exe
+  From Scratch.vcxproj -> C:\Users\Jake\Documents\Visual Studio 2015\Projects\From Scratch\Debug\From Scratch.pdb (Partial PDB)
